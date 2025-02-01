@@ -9,3 +9,5 @@ function teste(precoAnterior, precoAtual){
         return 'sem promoção';
     }
 }
+
+// teste git
